@@ -109,7 +109,7 @@
         <sys_created_on>2016-03-02 16:11:34</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>f3bdcda79f7512005b4e7fc9c42e700a</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>33</sys_mod_count>
         <sys_name>sn_bball.BBallPlayers</sys_name>
         <sys_package display_value="GameTimeNow" source="sn_bball">2811225c9f3112005ca47fc9c42e7022</sys_package>
         <sys_policy/>
@@ -117,7 +117,7 @@
         <sys_scope display_value="GameTimeNow">2811225c9f3112005ca47fc9c42e7022</sys_scope>
         <sys_update_name>sys_ui_script_f3bdcda79f7512005b4e7fc9c42e700a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-07-07 16:06:35</sys_updated_on>
+        <sys_updated_on>2016-07-07 16:31:46</sys_updated_on>
         <use_scoped_format>false</use_scoped_format>
     </sys_ui_script>
 </record_update>
