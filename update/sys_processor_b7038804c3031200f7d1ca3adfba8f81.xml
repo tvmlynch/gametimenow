@@ -12,7 +12,7 @@ Source is the Email that is sent by SN BBall Notification.</description>
         <path>insert_game_player</path>
         <path_endpoint>sn_bball_insert_game_player</path_endpoint>
         <require_csrf>false</require_csrf>
-        <roles/>
+        <roles>snc_internal</roles>
         <script><![CDATA[(function process(g_request, g_response, g_processor) {
 
 	insertGamePlayer(g_request, g_processor);
@@ -48,13 +48,11 @@ Source is the Email that is sent by SN BBall Notification.</description>
         <sys_class_name>sys_processor</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-22 17:08:58</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>b7038804c3031200f7d1ca3adfba8f81</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Insert Game Player</sys_name>
         <sys_package display_value="GameTimeNow" source="sn_bball">2811225c9f3112005ca47fc9c42e7022</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="GameTimeNow">2811225c9f3112005ca47fc9c42e7022</sys_scope>
         <sys_update_name>sys_processor_b7038804c3031200f7d1ca3adfba8f81</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

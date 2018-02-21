@@ -6766,13 +6766,11 @@ button.close {&#13;
         <sys_class_name>content_css</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-02-28 21:47:24</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>815ef2229f3512005b4e7fc9c42e70fd</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>bootstrap</sys_name>
         <sys_package display_value="GameTimeNow" source="sn_bball">2811225c9f3112005ca47fc9c42e7022</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="GameTimeNow">2811225c9f3112005ca47fc9c42e7022</sys_scope>
         <sys_update_name>content_css_815ef2229f3512005b4e7fc9c42e70fd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

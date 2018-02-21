@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <description>Initially the weather-getter will react to this, but others may follow</description>
+        <event_name>sn_bball.game.inserted</event_name>
+        <fired_by>Business RUle on insert of new game</fired_by>
+        <queue/>
+        <suffix>game.inserted</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>tricia.lynch</sys_created_by>
+        <sys_created_on>2018-02-19 18:28:26</sys_created_on>
+        <sys_id>9d8c580fdb5013009962d450cf961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_bball.game.inserted</sys_name>
+        <sys_package display_value="GameTimeNow" source="sn_bball">2811225c9f3112005ca47fc9c42e7022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GameTimeNow">2811225c9f3112005ca47fc9c42e7022</sys_scope>
+        <sys_update_name>sysevent_register_9d8c580fdb5013009962d450cf961930</sys_update_name>
+        <sys_updated_by>tricia.lynch</sys_updated_by>
+        <sys_updated_on>2018-02-19 18:28:26</sys_updated_on>
+        <table>sn_bball_game</table>
+    </sysevent_register>
+</record_update>
